@@ -1,0 +1,52 @@
+* {
+    background-color: rgb(9, 26, 73);
+      font-size: 15px; 
+      z-index: 0;
+      background-repeat: no-repeat;
+      color: white
+  
+  }
+
+
+  .tweet {
+    color: white;
+    background-color: rgb(15, 170, 221);
+    font-size: 70%;
+    text-align: left;
+    margin: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    border-radius: 30px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.tts h1{
+    color: rgb(187, 184, 184);
+    font-size: 50%;
+    text-align: left;
+    font-weight: bold;
+    font-family: sans-serif;
+    width: 320px;
+    height: 60px;
+    border: 2px solid grey;
+    padding: 10px;
+    margin: 0px;
+}
+
+
+.tb {
+    font-size: 30%;
+    border: .5px solid grey;
+}
+
+.side p{
+    color: grey;
+    font-size: 70%;
+    border: .5px solid grey;
+}
+
+.diff {
+    color: white;
+}
+
